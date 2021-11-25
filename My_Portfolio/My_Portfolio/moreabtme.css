@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Dancing+Script:wght@700&display=swap');
+body{
+    background-color:rgb(243, 204, 211);
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Courgette', cursive;
+}
+.pi{
+    list-style-position: inside;
+    text-indent: 20px;
+}
+.goals{
+    list-style-position: inside;
+    text-indent: 20px;
+}
+.i{
+    float:left;
+}
+
+h2{
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Dancing Script', cursive;
+    
+}
